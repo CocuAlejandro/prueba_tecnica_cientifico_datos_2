@@ -2,10 +2,8 @@
 
 **1. Configurar credenciales:**
 
-Copia el archivo de ejemplo y edítalo con tus credenciales:
-```bash
-cp .env.example .env
-nano .env  # o usa tu editor favorito
+```
+Configurar el .env con las variables correspondientes
 ```
 
 **2. Instalar dependencias:**
